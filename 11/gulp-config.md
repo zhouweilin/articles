@@ -14,6 +14,8 @@ projects    //把gulp和gulp的插件安装在工程根目录
 ```  
 
 > 注：本文下面的内容，均以此结构为基础。如果没安装nodejs，请先安装[nodejs](https://nodejs.org/en/)
+
+
 ##gulp 安装 
 * 安装gulp-cli
 ```
