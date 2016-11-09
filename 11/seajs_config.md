@@ -29,7 +29,7 @@ seajs.config({
     }
 });
 ```
-具体的[seajs](http://seajs.org/)的[config](https://github.com/seajs/seajs/issues/262)参数可以访问链接
+具体的[seajs](http://seajs.org/)的[config](https://github.com/seajs/seajs/issues/262)参数可以访问链接   
 在index.html中`</body>`前引入sea.js和seajs.config.js
 ```html
 <script type="text/javascript" src="public/sea.js"></script>
