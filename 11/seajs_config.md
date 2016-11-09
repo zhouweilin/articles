@@ -29,7 +29,7 @@ seajs.config({
     }
 });
 ```
-具体的[seajs](http://seajs.org/)的[config](https://github.com/seajs/seajs/issues/262)参数可以访问链接   
+具体的[seajs](http://seajs.org/)的[config](https://github.com/seajs/seajs/issues/262)参数可以访问链接       
 在index.html中`</body>`前引入sea.js和seajs.config.js
 ```html
 <script type="text/javascript" src="public/sea.js"></script>
@@ -99,3 +99,5 @@ define(function(require){
 *	只在国内流行了一段时间，并没有跟国际接轨，社区不够活跃，所以很难有发展
 *	没有好的方式实现打包和自动化构建
 *	没有像requirejs的shim一样解决非模块化的js文件的依赖问题
+
+>对于seajs和requirejs的区别，可以参考seajs的作者在知乎上的回答[知乎------AMD 和 CMD 的区别有哪些？](https://www.zhihu.com/question/20351507)
